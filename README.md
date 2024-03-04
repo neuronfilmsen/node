@@ -13,8 +13,3 @@ In systems and distributed computing:
 
 A processing unit or a device in a distributed system that can communicate and share information with other nodes in the system.
 In Internet of Things (IoT):
-
-A physical device or sensor that is connected to the internet and can transmit and receive data.
-In blockchain:
-
-A participant in a decentralized network that maintains a copy of the blockchain and validates transactions.
